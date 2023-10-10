@@ -1,1 +1,1 @@
-# lampada1
+# lamp
